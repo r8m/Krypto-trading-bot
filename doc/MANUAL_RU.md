@@ -1,8 +1,8 @@
-# What is Market Making?
+# Что такое Маркетмэйкинг?
 
-Market making is a trading strategy where the trader simultaneously places both buy and sell orders in an attempt to profit from the bid-ask spread.  Market makers stand ready to both buy and sell from other traders, thus providing liquidity to the market.
+Маркетмэйкинг - это торговая стратегия, в которой трейдер одновременно размещает как ордера на покупку, так и продажу, пытаясь извлечь выгоду из спреда bid-ask. Маркет-мейкеры готовы покупать и продавать у других трейдеров, тем самым обеспечивая ликвидность на рынке.
 
-The strategy is appealing to traders because it doesn't require traders to take a directional view of the market - there's money to be made when the market goes up and when the market goes down. It's also heavily incentivized by exchanges looking for liquidity and volume - many exchange operators will pay you to make markets on their exchanges.
+Стратегия привлекательна для трейдеров, так как не зависит от направления рынка - профит можно извдекать, когда рынок будет расти и когда рынок будет падать. Маркетмйкинг стимулируется биржами, ищущими ликвидность и объем, п многие биржевые операторы готовы платить вам за то, чтобы  вы торговали на их биржах.
 
 ## An example
 
