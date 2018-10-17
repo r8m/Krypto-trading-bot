@@ -4,9 +4,10 @@
 
 Стратегия привлекательна для трейдеров, так как не зависит от направления рынка - профит можно извдекать, когда рынок будет расти и когда рынок будет падать. Маркетмйкинг стимулируется биржами, ищущими ликвидность и объем, а многие биржевые операторы готовы платить вам за то, чтобы  вы торговали на их биржах.
 
-## An example
+## Пример
+Рассмотрим совсем простой рынок. Допустим, на рынке только три трейдера и зовут из Алиса, Боб и Тим. Алиса собирается продать немного битка, Боб же намерен конвертировать доллары в биток. Никто из них не понимает, что такое рынок и криптовалюты.  Боб и Алиса используют биткоин, но не собираются сидеть за терминалом день и ночь в надежде получить лучшие цены для конвертации. Тим использует **Krypto-trading-bot**.
 
-Let's consider a simplified market. Let's say there are three traders: Alice, Bob, and Tim. Alice is looking to sell some of her Bitcoins and Bob is looking to convert some of his USD into Bitcoin. Neither one are savvy about markets or cryptocurrency - they use Bitcoin, but aren't going to lose sleep over trying to get the absolute best prices. Tim is operating **Krypto-trading-bot**. Now lets say that the price BTC to USD is $100. Tim could configure **Krypto-trading-bot** to send in a buy order for 1 BTC at $95 and a sell order for 1 BTC at $105. Tim would hope that Bob would come along and buy the offered sell order at $105 and Alice would come and sell BTC at $95 - netting Tim $10.
+Now lets say that the price BTC to USD is $100. Tim could configure **Krypto-trading-bot** to send in a buy order for 1 BTC at $95 and a sell order for 1 BTC at $105. Tim would hope that Bob would come along and buy the offered sell order at $105 and Alice would come and sell BTC at $95 - netting Tim $10.
 
 But what if that doesn't happen? What if the price of BTC/USD jumps to $103? Now Tim's buy order seems really uncompetitive at $95 - Alice doesn't want to sell for that little. And Bob could get a pretty good deal by getting the BTC at only two extra dollars. To prevent this scenario, Tim's **Krypto-trading-bot** would readjust the orders by cancelling the $95-$105 orders and placing a new set of orders - also known as making a market - at $98-$108.
 
